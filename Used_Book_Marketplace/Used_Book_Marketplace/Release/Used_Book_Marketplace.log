@@ -1,0 +1,19 @@
+﻿  Admin.cpp
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(62,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(104,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(261,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(316,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Book.cpp
+  LogIn.cpp
+  main.cpp
+  User.cpp
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(348,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\User.cpp(224,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\User.cpp(443,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\User.cpp(551,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\LogIn.cpp(64): warning C4715: 'Login::LoginUI': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 449 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Used_Book_Marketplace.vcxproj -> C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Release\Used_Book_Marketplace.exe

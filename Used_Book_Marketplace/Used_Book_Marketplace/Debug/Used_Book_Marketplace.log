@@ -1,0 +1,9 @@
+﻿  Admin.cpp
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(62,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(104,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(261,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(316,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Used_Book_Marketplace\Admin.cpp(348,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Used_Book_Marketplace.vcxproj -> C:\Users\tulee\OneDrive\Desktop\Used_Book_Marketplace\Debug\Used_Book_Marketplace.exe
